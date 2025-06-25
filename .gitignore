@@ -1,0 +1,20 @@
+# Node.js specific
+node_modules/
+.env
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnp/
+.pnp.js
+
+# Frontend specific (React)
+frontend/build/
+frontend/dist/ # if you use Vite or other bundlers
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/reportWebVitals.js # Usually excluded by default but good to explicitly ignore if you've seen issues
+
+# Backend specific (Node.js)
+backend/.env
