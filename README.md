@@ -1,7 +1,3 @@
-Here is the `README.md` file for your project, provided again for your convenience.
-
------
-
 # Data Compression Portal
 
 A web application for compressing and decompressing various file types using different algorithms, providing insights into compression efficiency.
@@ -20,9 +16,6 @@ A web application for compressing and decompressing various file types using dif
   * [Deployment](https://www.google.com/search?q=%23deployment)
       * [Frontend Deployment (Vercel / Netlify)](https://www.google.com/search?q=%23frontend-deployment-vercel--netlify)
       * [Backend Deployment (Render / Heroku / Railway)](https://www.google.com/search?q=%23backend-deployment-render--heroku--railway)
-  * [Contributing](https://www.google.com/search?q=%23contributing)
-  * [License](https://www.google.com/search?q=%23license)
-  * [Contact](https://www.google.com/search?q=%23contact)
 
 -----
 
@@ -213,25 +206,5 @@ This project is set up for separate deployment of the frontend and backend.
       * **Environment Variables:**
           * `PORT` (usually set automatically by the platform, but ensure your code uses it)
           * `FRONTEND_URL`: Set this to the URL of your deployed frontend (e.g., `https://your-frontend-app.vercel.app`).
-
------
-
-## Contributing
-
-Contributions are welcome\! Please feel free to fork the repository, create a new branch, make your changes, and submit a pull request.
-
------
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE.md). (You'll need to create a `LICENSE.md` file in your root directory if you choose this license).
-
------
-
-## Contact
-
-Priyanshu - [your-email@example.com](mailto:your-email@example.com)
-
-Project Link: [https://github.com/priyanshuk001/Compression\_Decompression\_Portal](https://www.google.com/search?q=https://github.com/priyanshuk001/Compression_Decompression_Portal)
 
 -----
